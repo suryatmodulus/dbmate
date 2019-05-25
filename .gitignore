@@ -2,5 +2,7 @@
 .env
 /dbmate
 /dist
+/node_modules
 /testdata/db/schema.sql
 /vendor
+package-lock.json
